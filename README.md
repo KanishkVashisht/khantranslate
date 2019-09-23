@@ -1,6 +1,8 @@
 # khantranslate
 Translate any khan academy video from english to French, Spanish, Dutch, Portuguese, Korean and Japanese. 
 
+View KhanDiagram.pdf to understand how this works better
+
 To run this 
 
 <b>Usage</b>
